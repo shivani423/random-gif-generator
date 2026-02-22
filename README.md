@@ -27,7 +27,7 @@ REACT_APP_GIPHY_API_KEY=your_api_key
 npm start
 
 ## 📸 Preview
-![App Screenshot](./screenshot.png)
+![App Screenshot](./src/asset/screenshot.png)
 
 ## 👩‍💻 Author
 Shivani
